@@ -1,4 +1,4 @@
-package com.abraham.cleaner;
+package com.abraham.cleaner.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
